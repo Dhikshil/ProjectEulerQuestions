@@ -1,3 +1,6 @@
+#If we list all the natural number below 10 that are multiples of 3 and 5, we get 3, 5, 6, 9. 
+#Find all the sum of all the multiples of 3 and 5 below 1000.
+
 num1 = 3
 num2 = 5
 lim = 1000
